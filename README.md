@@ -1,6 +1,7 @@
 # Interactive-Knowledge-Graph-for-CaseLaw-Analysis
-Knowledge graph for law case project - Georgia Tech CSE 6242
-We aim to visualize a law case document to improve the reading experience.
+	*Knowledge graph for law case project - Georgia Tech CSE 6242.
+	*We aim to visualize a law case document to improve the reading experience.
+	*Contributed by: Zichen Bai, Yun-Hsuan Chen, Tien-Chi Hsin, Ching-Chieh Huang, Ming-Ying Li, and Ting Liao(Listed in alphabetical order)
 
 # INSTALLATION - How to install and setup your code
 ## Data collection (scrape) part:
